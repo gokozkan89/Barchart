@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+/*<!DOCTYPE html>
 <meta charset="utf-8">
 <style>
   svg {
@@ -236,4 +236,4 @@
       xAxisGroup.call(xAxis.tickValues(filteredTickValues));
     }
 
-  </script>
+  </script>*/
